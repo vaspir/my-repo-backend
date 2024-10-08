@@ -1,1 +1,1 @@
-This repository for backend on language python 
+This repository for backend on language python was created by vasili-spirydzionak
